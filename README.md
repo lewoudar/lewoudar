@@ -8,7 +8,8 @@ I like to create things, this is why I spend part of my free time contributing t
 Currently my field of interest is [structured concurrency](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 and I hope it will be widespread within a few years. If you are passing by, don't hesitate to have a look at my projects. 😜
 
-Aw, I also want to mention that IMHO [Django](https://github.com/django/django) is the best web framework ever realized in the python landscape 
-and [anyio](https://github.com/agronholm/anyio) is probably what you are looking for, for concurrency in python.
+For networking stuff and concurrency, [anyio](https://github.com/agronholm/anyio) is probably what you are looking for. In any case I enjoy using it.
+
+Aw, I also want to mention that IMHO [Django](https://github.com/django/django) is the best web framework ever realized in the python landscape, though the combination [FastAPI](https://github.com/tiangolo/fastapi) + [Tortoise ORM](https://github.com/tortoise/tortoise-orm) is also sweet 😋.
 
 See you soon!

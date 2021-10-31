@@ -10,6 +10,6 @@ and I hope it will be widespread within a few years. If you are passing by, don'
 
 For networking stuff and concurrency, [anyio](https://github.com/agronholm/anyio) is probably what you are looking for. In any case I enjoy using it.
 
-Aw, I also want to mention that IMHO [Django](https://github.com/django/django) is the best web framework ever realized in the python landscape, though the combination [FastAPI](https://github.com/tiangolo/fastapi) + [Tortoise ORM](https://github.com/tortoise/tortoise-orm) is also sweet 😋.
+Aw, I also want to mention that IMHO [Django](https://github.com/django/django) is the best web framework ever realized in the python landscape, though the combination [FastAPI](https://github.com/tiangolo/fastapi) + [Tortoise ORM](https://github.com/tortoise/tortoise-orm) / [ormar](https://collerek.github.io/ormar/) is also sweet 😋.
 
 See you soon!

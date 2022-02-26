@@ -12,4 +12,6 @@ For networking stuff and concurrency, [anyio](https://github.com/agronholm/anyio
 
 Aw, I also want to mention that IMHO [Django](https://github.com/django/django) is the best web framework ever realized in the python landscape, though the combination [FastAPI](https://github.com/tiangolo/fastapi) + [Tortoise ORM](https://github.com/tortoise/tortoise-orm) / [ormar](https://collerek.github.io/ormar/) is also sweet 😋.
 
+You can follow me on others [social medias](https://linktr.ee/le_woudar) where I shared what I have learned in tech and more 😊
+
 See you soon!
